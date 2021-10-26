@@ -1,6 +1,6 @@
 /*
     Project: Quadratic Equation Solution.
-    Author:  O. Butuba.
+    Author:  Obalu Butuba DSE-01-0786/2021
     Date:    Oct 26th, 2021.
     Compiler: GCC.
     Language: C99
